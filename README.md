@@ -1,5 +1,19 @@
 ## Hi there 👋
-My name is Darpan Bhandari. I'm a student at LAB university of Applied Sciences, studying Bachelor of Engineering Industrial Information Technology.
+My name is Darpan Bhandari. I'm a student at LAB university of Applied Sciences. I'm studying Bachelor of Engineering in Industrial Information Technology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **gojiradarpan/gojiradarpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
